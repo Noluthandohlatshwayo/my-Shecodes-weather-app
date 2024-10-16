@@ -31,3 +31,21 @@ body .weather-app {
   border-radius: 6px;
   color: white;
 }
+
+header {
+  border-bottom: 1px solid #f9f7fe;
+  padding: 0 0 30px;
+}
+
+main {
+  padding: 30px 0;
+}
+
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-app-temperature-container {
+  display: flex;
+}
